@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://markandrewj.github.io
+title: Scratch Pad
+tagline: A log of interesting findings.
+description: My awesome new site
+paginate: 5
