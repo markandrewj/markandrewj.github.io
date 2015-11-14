@@ -1,6 +1,6 @@
 ---
 published: true
-title: First Post and Tinypress
+title: First Post using Tinypress
 layout: post
 ---
 Just trying out tinypress.co
