@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://markandrewj.github.io
-title: A log of interesting findings.
+title: ScratchPad
 tagline: A log of interesting findings.
-description: My awesome new site
+description: A log of interesting findings.
 paginate: 5
